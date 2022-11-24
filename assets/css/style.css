@@ -1494,6 +1494,20 @@ height: 350px;
 section{
   margin-bottom: 25px;
 }
+
+
+
+hr {
+  border-top: 10px dotted #0062d3;
+  width: 100px;
+  text-align: center;
+  
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
